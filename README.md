@@ -1,5 +1,6 @@
 # plane_review_classification
 ABANDONED
+
 A neural net for review sentiment analysis(WIP)
 
 - model.py - a program for merging two dataframes containing positive and negative tweets (in Russian) and building a word2vec model based on these tweets, using gensim library.(WIP)
